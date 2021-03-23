@@ -15,3 +15,7 @@ O triângulo de floyd consiste em um triângulo de números naturais consecutivo
 ## Descrição
 
 Código em Python resolvendo o triângulo de Floyd utilizando loops for, com o número de linhas fornecido pelo usuário.
+
+## Instruções
+
+Baixe o arquivo triangulo_floyd.py e abre em uma IDE da sua preferência. Depois é só rodar o código e seguir as intruções na tela.
